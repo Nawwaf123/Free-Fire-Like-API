@@ -6,5 +6,9 @@
     {
         "uid": "guest uid 2",
         "password": "guest password 2"
+    },
+    {
+        "uid": "ชุดที่3"
+        "password": "รหัส 3"
     }
 ]
